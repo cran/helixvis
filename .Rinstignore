@@ -1,0 +1,5 @@
+# ignore java source code directory
+java/Sequence.java
+java/Residue.java
+java/Util.java
+java/StaticVis.java
