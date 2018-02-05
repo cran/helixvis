@@ -1,15 +1,15 @@
-c7db9e9111a00b173a743955a9014c46 *DESCRIPTION
+bf298a685107ccc6b7738902a377b19e *DESCRIPTION
 646c994529935f3538450967207caf3b *NAMESPACE
 52f1bc255c9698eb58422a3794f6f2a7 *R/data.R
-c42a6f0c6059de31ff75059dbf206943 *R/draw_func.R
+cb0be5b7275bf4022c8060643addb660 *R/draw_func.R
 0ffd6426712c9242061467bd5f6b08d5 *R/helixvis.R
-3c8b6402658c15db7194762e399c7ac7 *R/zzz.R
-a8b6b0e423dda74822ae364e608dc9eb *README.md
+56d98904999d190e2fe4b923be8dd165 *R/zzz.R
+f9709f0dad01a7cc83fdf150c0bc95c6 *README.md
 29ba659f767a9b0670bb02f2af1be4d7 *build/vignette.rds
 35afa4bf6e0685c306bcf3cee4667299 *data/SampleSeq.rda
 549d18f796b11a49f69ac199fc73c6bf *inst/doc/Visualization.R
-91d27edd4adf336da562eeeb72a18c7b *inst/doc/Visualization.Rmd
-c83ce7fbfaab37284adf683a0379f6a8 *inst/doc/Visualization.html
+3ca2598fe7aa78b588caef95a8b54dc4 *inst/doc/Visualization.Rmd
+d84a21b36d651cccc52853e17f056775 *inst/doc/Visualization.html
 2eb3f951c26613967b4229bf208d889d *inst/java/Sequence.jar
 9a0cc5f3be706ee1a83f3bdf6ad4a8e6 *java/CopyFiles.sh
 67200163b8d1dc32ca21c87607259eaf *java/MakeJar.sh
@@ -21,4 +21,4 @@ dd349a9593caa015ab0c41d1bca03c26 *java/Util.java
 5b5cc39bd5e04ea438edc3a2ad9eba65 *man/draw_wenxiang.Rd
 3644964ea703afa9a20d3dc31824ef8c *man/draw_wheel.Rd
 a0b2bdc2ff90977deb99fb2e207e74e0 *man/helixvis.Rd
-91d27edd4adf336da562eeeb72a18c7b *vignettes/Visualization.Rmd
+3ca2598fe7aa78b588caef95a8b54dc4 *vignettes/Visualization.Rmd

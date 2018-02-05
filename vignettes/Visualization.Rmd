@@ -53,8 +53,6 @@ knitr::opts_chunk$set(collapse = TRUE, comment = "#>")
 
 ## Background
 
-Include a paragraph about $\alpha$-helical peptides in the context of
-protein structure.
 Proteins are a major class of biochemical macromolecules composed of linear chains of building blocks, known as amino acids. There are 20 standard amino acids, and 2 newer proteinogenic amino acids (selenocysteine and pyrrolysine) that are classified based on the biochemistry of their side chains (see Table below). Note that amino acids are also known as residues.
 
 ```{r aa_table, echo = FALSE, fig.cap = "List of 22 proteinogenic amino acids supported for visualization by helixvis."}

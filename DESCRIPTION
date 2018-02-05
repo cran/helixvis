@@ -1,8 +1,8 @@
 Package: helixvis
 Type: Package
 Title: Visualize Alpha-Helical Peptide Sequences
-Date: 2017-06-19
-Version: 0.1.0
+Date: 2018-02-04
+Version: 0.2.0
 Authors@R: c(
   person("Raoul", "Wadhwa", email = "raoulwadhwa@gmail.com", role = c("cre", "aut")),
   person("Regina", "Stevens-Truss", email = "rtruss@kzoo.edu", role = "aut"))
@@ -17,16 +17,16 @@ Encoding: UTF-8
 LazyData: true
 Imports: rJava (>= 0.9)
 Depends: R (>= 3.2.5)
-SystemRequirements: Java JDK 1.8 or higher
+SystemRequirements: Java 8
 URL: https://github.com/rrrlw/helixvis
 BugReports: https://github.com/rrrlw/helixvis/issues
 RoxygenNote: 6.0.1
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2017-06-26 01:10:15 UTC; raoul
+Packaged: 2018-02-04 23:53:42 UTC; raoul
 Author: Raoul Wadhwa [cre, aut],
   Regina Stevens-Truss [aut]
 Maintainer: Raoul Wadhwa <raoulwadhwa@gmail.com>
 Repository: CRAN
-Date/Publication: 2017-06-26 06:13:24 UTC
+Date/Publication: 2018-02-05 04:05:07 UTC

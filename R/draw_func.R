@@ -21,8 +21,6 @@
 #' @param seq   character vector containing residue sequences in order
 #'   from N-terminus to C-terminus. Each sequence must contain at least
 #'   two residues, and \code{length(name)} must equal \code{length(seq)}.
-#' @examples
-#' draw_wheel("TestWheel", "AREKHLVLLKREGDIWKL")
 #' @export
 draw_wheel <- function(name, seq) {
   # make sure lengths of names and sequences are equal
@@ -63,8 +61,6 @@ draw_wheel <- function(name, seq) {
 #' the center representing the amino acid at the N-terminus.
 #'
 #' @inheritParams draw_wheel
-#' @examples
-#' draw_wenxiang("TestWenxiang", "AREKHLVLLKREGDIWKL")
 #' @export
 draw_wenxiang <- function(name, seq) {
   # make sure lengths of names and sequences are equal
