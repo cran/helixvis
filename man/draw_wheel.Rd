@@ -4,7 +4,9 @@
 \alias{draw_wheel}
 \title{Create helical wheels to visualize alpha helical sequences.}
 \usage{
-draw_wheel(sequence, col = c("grey", "yellow", "blue", "red"))
+draw_wheel(sequence, col = c("grey", "yellow", "blue", "red"),
+  labels = FALSE, label.col = "black", fixed = TRUE,
+  legend = FALSE)
 }
 \arguments{
 \item{sequence}{character vector containing amino acid sequence
@@ -12,6 +14,16 @@ from N-terminus to C-terminus}
 
 \item{col}{colors for each amino acid type in the following order:
 nonpolar residues, polar residues, basic residues, acidic residues}
+
+\item{labels}{logical value; if TRUE, one-letter residue codes are
+overlaid on the residue circles}
+
+\item{label.col}{character value for color of labels added if `labels = TRUE`}
+
+\item{fixed}{if TRUE (default), ensures that residues will be circles
+(not ellipses) even if graphics device is rectangular}
+
+\item{legend}{if TRUE, adds legend to plot}
 }
 \description{
 This function visualizes alpha-helical peptides as
